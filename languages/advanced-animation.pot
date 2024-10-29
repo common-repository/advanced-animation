@@ -1,0 +1,122 @@
+# Copyright (C) 2021 Advanced Animation
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Animation 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/advanced-animation\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-22T02:27:37+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: advanced-animation\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: build/index.js:18048
+#: build/index.js:20707
+#: src/blockSettings.js:151
+#: src/save.js:28
+msgid "Advanced Animation"
+msgstr ""
+
+#. Description of the plugin
+msgid "Advanced animation for gutenberg block."
+msgstr ""
+
+#: build/index.js:18051
+#: src/blockSettings.js:155
+msgid "Enable Parallax"
+msgstr ""
+
+#: build/index.js:18057
+#: src/blockSettings.js:164
+msgid "Speed"
+msgstr ""
+
+#: build/index.js:18067
+#: build/index.js:21106
+#: src/blockSettings.js:187
+#: src/sidebar.js:393
+msgid "Animations"
+msgstr ""
+
+#: build/index.js:18069
+#: build/index.js:21109
+#: src/blockSettings.js:191
+#: src/sidebar.js:397
+msgid "Select Animation"
+msgstr ""
+
+#: build/index.js:18105
+#: src/blockSettings.js:226
+msgid "New Animation"
+msgstr ""
+
+#: build/index.js:21114
+#: src/sidebar.js:403
+msgid "Duration (seconds)"
+msgstr ""
+
+#: build/index.js:21119
+#: src/sidebar.js:409
+msgid "Delay (seconds)"
+msgstr ""
+
+#: build/index.js:21124
+#: src/sidebar.js:415
+msgid "Playing Iterations"
+msgstr ""
+
+#: build/index.js:21135
+#: src/sidebar.js:424
+msgid "Playing Directions"
+msgstr ""
+
+#: build/index.js:21152
+#: src/sidebar.js:435
+msgid "Easing"
+msgstr ""
+
+#: build/index.js:21191
+#: src/sidebar.js:474
+msgid "Select Trigger"
+msgstr ""
+
+#: build/index.js:21214
+#: src/sidebar.js:505
+msgid "Delete Animation"
+msgstr ""
+
+#: build/index.js:21214
+#: src/sidebar.js:511
+msgid "There is no animations created"
+msgstr ""
+
+#: build/index.js:21215
+#: src/sidebar.js:515
+msgid "Frames"
+msgstr ""
+
+#: build/index.js:21218
+#: src/sidebar.js:517
+msgid "Time (seconds)"
+msgstr ""
+
+#: build/index.js:21278
+#: src/sidebar.js:585
+msgid "Delete Frame"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Advanced Animation"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Example block written with ESNext standard and JSX support – build step required."
+msgstr ""

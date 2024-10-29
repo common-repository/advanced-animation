@@ -1,0 +1,38 @@
+{
+	"$schema": "https://json.schemastore.org/block.json",
+	"apiVersion": 2,
+	"name": "advanced-block/box",
+	"version": "0.2.2",
+	"title": "Box",
+	"category": "widgets",
+	"icon": "admin-page",
+	"description": "Rectangle box",
+	"attributes": {
+		"style": {
+			"type": "object",
+			"default": {
+				"width": "100px",
+				"height": "100px",
+				"opacity": "100%",
+				"borderRadius": "0px",
+				"margin": "0px",
+				"color": {
+					"background": "#ccc"
+				}
+			}
+		},
+		"backgroundColor": {
+			"type": "string"
+		}
+	},
+	"supports": {
+		"html": false,
+		"color": {
+			"gradients": true,
+			"text": false
+		}
+	},
+	"textdomain": "advanced-animation",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css"
+}
